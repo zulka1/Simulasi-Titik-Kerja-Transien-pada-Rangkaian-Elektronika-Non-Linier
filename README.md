@@ -103,6 +103,8 @@ Pilih menu \[0-3]: 1
 &#x20; ◆ Grafik Analisis DC Bias
 
 &#x20; ──────────────────────────────────────────────────────────────────
+<img width="1300" height="800" alt="Menu_1" src="https://github.com/user-attachments/assets/64c6e720-e127-4c2d-9df6-670771b3c04d" />
+
 
 &#x20;   ✓ Grafik berhasil ditampilkan!
 
@@ -239,6 +241,8 @@ Pilih menu \[0-3]: 2
 &#x20; ◆ Grafik Analisis DC Bias 2 Node
 
 &#x20; ──────────────────────────────────────────────────────────────────
+<img width="1300" height="800" alt="Menu_2" src="https://github.com/user-attachments/assets/d6299dc0-aaf1-41f2-908d-6447efe34e66" />
+
 
 &#x20;   ✓ Grafik berhasil ditampilkan!
 
@@ -405,6 +409,8 @@ Pilih menu \[0-3]: 3
 &#x20; ◆ Grafik Respons Transien
 
 &#x20; ──────────────────────────────────────────────────────────────────
+<img width="1400" height="800" alt="menu_3" src="https://github.com/user-attachments/assets/6f2a3d30-acd7-497e-b17d-8df37c0a024f" />
+
 
 &#x20;   ✓ Grafik berhasil ditampilkan!
 
