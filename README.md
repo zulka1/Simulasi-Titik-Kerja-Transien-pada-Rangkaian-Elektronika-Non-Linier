@@ -1,5 +1,5 @@
-Simulasi Titik Kerja Transien pada Rangkaian Elektronika Non-Linier
-                                                                   
+## Simulasi Titik Kerja Transien pada Rangkaian Elektronika Non-Linier
+
 ===
 
 
@@ -14,7 +14,7 @@ Member :
 
 
 
-&#x20;                                                                                                                                                                       
+&#x20;
 
 
 
@@ -25,7 +25,8 @@ Pada proyek ini, komponen non-linier yang digunakan adalah dioda. Dioda memiliki
 Selain titik kerja DC, proyek ini juga membahas respons transien pada rangkaian RC-dioda. Karena terdapat kapasitor, perubahan tegangan terhadap waktu dimodelkan sebagai persamaan diferensial biasa. Persamaan tersebut diselesaikan menggunakan metode Euler Implisit, dan persamaan non-linier pada setiap langkah waktunya diselesaikan kembali menggunakan Newton-Raphson.
 
 
-																					
+
+
 
 
 
@@ -33,7 +34,7 @@ Selain titik kerja DC, proyek ini juga membahas respons transien pada rangkaian 
 
 
 
-1. &#x20; 
+1. &#x20;
 
 
 
@@ -107,11 +108,11 @@ Pilih menu \[0-3]: 1
 
 
 
-&#x20; Tekan \[Enter] untuk kembali ke menu... 
+&#x20; Tekan \[Enter] untuk kembali ke menu...
 
 
 
-2\. 
+2\.
 
 
 
@@ -243,11 +244,11 @@ Pilih menu \[0-3]: 2
 
 
 
-&#x20; Tekan \[Enter] untuk kembali ke menu... 
+&#x20; Tekan \[Enter] untuk kembali ke menu...
 
 
 
-3\. 
+3\.
 
 
 
@@ -279,7 +280,7 @@ Pilih menu \[0-3]: 3
 
 &#x20;   Waktu simulasi (t\_end) \[0.06 s]: 0.005   ← 5 ms (karena freq tinggi)
 
-&#x20;   Langkah waktu (dt) \[1e-05 s]: 1e-6       ← dt lebih kecil       
+&#x20;   Langkah waktu (dt) \[1e-05 s]: 1e-6       ← dt lebih kecil
 
 
 
@@ -409,5 +410,5 @@ Pilih menu \[0-3]: 3
 
 
 
-&#x20; Tekan \[Enter] untuk kembali ke menu...                                            
+&#x20; Tekan \[Enter] untuk kembali ke menu...
 
